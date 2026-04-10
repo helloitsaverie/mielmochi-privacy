@@ -1,20 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Privacy Policy — Voidfarers</title>
-  <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 800px; margin: 0 auto; padding: 40px 20px; color: #333; line-height: 1.7; }
-    h1 { color: #1a1a2e; border-bottom: 2px solid #eee; padding-bottom: 12px; }
-    h2 { color: #1a1a2e; margin-top: 32px; }
-    a { color: #4f46e5; }
-    .updated { color: #888; font-size: 14px; }
-    p { margin: 12px 0; }
-  </style>
-</head>
-<body>
-
 <h1>Privacy Policy</h1>
 <p class="updated">Last updated: April 10, 2026</p>
 
